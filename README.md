@@ -29,4 +29,4 @@ Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codific
 
 
 
-Com isso, você terá acesso ao [projeto do Github](https://github.com/digitalinnovationone/trilha-java-basico) e links explorados.
+
