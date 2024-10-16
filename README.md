@@ -1,7 +1,7 @@
-## Trilha Java Básico
+## Trilha Java Básico 🚀
 
 
-## Sintaxe do desafio 
+## Sintaxe do desafio 💻
 
 - Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
@@ -15,7 +15,7 @@ Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codific
 
 - Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-Atributo | Tipo | Exemplo |
+|------Atributo -----|---- Tip-----| Exemplo |
 
 
 
