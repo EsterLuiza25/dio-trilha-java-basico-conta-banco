@@ -15,11 +15,12 @@ Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codific
 
 - Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-|Atribuição|Tipo|Exemplo|
-|nome|inteiro|xxxxx|
-|agencia|texto|xxxxx|
-|conta|texto|xxxx|
-|saldo|decimal|xxxx|
+| Atribuição | Tipo | Exemplo |
+| nome Cliente |   inteiro    | xxxxx |
+| agencia |  texto  | xxxxxxx |
+| conta    |  texto  |   xxxxx  |
+| saldo  |  decimal  |  xxxxxx   |
+
 
 
 
