@@ -19,9 +19,9 @@ Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codific
 
 | Atribuição | Tipo | Exemplo |
 |---|---|---|
-| nome Cliente |   inteiro    | xxxxx |
+| nome Cliente |   texto    | xxxxx |
 | Agencia |  texto  | xxxxxxx |
-| Conta    |  texto  |   xxxxx  |
+| Conta    |  inteiro  |   xxxxx  |
 | Saldo  |  decimal  |  xxxxxx   |
 
 
